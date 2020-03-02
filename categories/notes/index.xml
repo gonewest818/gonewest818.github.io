@@ -6,10 +6,28 @@
     <description>Recent content in notes on gonewest818 doodles in code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2020 09:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 22:05:00 -0800</lastBuildDate>
     
 	<atom:link href="https://gonewest818.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A standalone init.el for Emacs package debugging</title>
+      <link>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</link>
+      <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
+      <description>A technique for building clean, reproducible test cases for Emacs packages.</description>
+    </item>
+    
+    <item>
+      <title>A standalone init.el for Emacs package debugging</title>
+      <link>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</link>
+      <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
+      <description>Build small standalone configurations for debugging problems in Emacs packages.</description>
+    </item>
     
     <item>
       <title>&#34;modt-users&#34; community on Slack</title>

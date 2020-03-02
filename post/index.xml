@@ -6,10 +6,28 @@
     <description>Recent content in Posts on gonewest818 doodles in code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 10:30:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 22:05:00 -0800</lastBuildDate>
     
 	<atom:link href="https://gonewest818.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A standalone init.el for Emacs package debugging</title>
+      <link>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</link>
+      <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
+      <description>A technique for building clean, reproducible test cases for Emacs packages.</description>
+    </item>
+    
+    <item>
+      <title>A standalone init.el for Emacs package debugging</title>
+      <link>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</link>
+      <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
+      <description>Build small standalone configurations for debugging problems in Emacs packages.</description>
+    </item>
     
     <item>
       <title>dimmer.el 20200227.1712</title>
