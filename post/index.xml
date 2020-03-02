@@ -17,15 +17,6 @@
       <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
       
       <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
-      <description>A technique for building clean, reproducible test cases for Emacs packages.</description>
-    </item>
-    
-    <item>
-      <title>A standalone init.el for Emacs package debugging</title>
-      <link>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</link>
-      <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
-      
-      <guid>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</guid>
       <description>Build small standalone configurations for debugging problems in Emacs packages.</description>
     </item>
     
