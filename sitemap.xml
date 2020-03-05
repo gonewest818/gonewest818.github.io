@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</loc>
-    <lastmod>2020-03-01T22:05:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gonewest818.github.io/categories/</loc>
-    <lastmod>2020-03-01T22:05:00-08:00</lastmod>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://gonewest818.github.io/tags/emacs/</loc>
-    <lastmod>2020-03-01T22:05:00-08:00</lastmod>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonewest818.github.io/2020/03/geolocation.el-in-beta/</loc>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://gonewest818.github.io/</loc>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonewest818.github.io/post/</loc>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonewest818.github.io/categories/projects/</loc>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonewest818.github.io/tags/</loc>
+    <lastmod>2020-03-04T22:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gonewest818.github.io/2020/03/a-standalone-init.el-for-emacs-package-debugging/</loc>
     <lastmod>2020-03-01T22:05:00-08:00</lastmod>
   </url>
   
@@ -28,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://gonewest818.github.io/post/</loc>
-    <lastmod>2020-03-01T22:05:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gonewest818.github.io/tags/</loc>
-    <lastmod>2020-03-01T22:05:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gonewest818.github.io/2020/02/dimmer.el-20200227.1712/</loc>
-    <lastmod>2020-02-27T10:30:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gonewest818.github.io/categories/projects/</loc>
     <lastmod>2020-02-27T10:30:00-08:00</lastmod>
   </url>
   

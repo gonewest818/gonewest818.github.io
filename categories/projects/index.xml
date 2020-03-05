@@ -6,10 +6,19 @@
     <description>Recent content in projects on gonewest818 doodles in code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 10:30:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 22:50:00 -0800</lastBuildDate>
     
 	<atom:link href="https://gonewest818.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>geolocation.el (in beta)</title>
+      <link>https://gonewest818.github.io/2020/03/geolocation.el-in-beta/</link>
+      <pubDate>Wed, 04 Mar 2020 22:50:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/geolocation.el-in-beta/</guid>
+      <description>Get your location on Earth</description>
+    </item>
     
     <item>
       <title>dimmer.el 20200227.1712</title>

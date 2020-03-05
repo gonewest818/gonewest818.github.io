@@ -6,10 +6,19 @@
     <description>Recent content in Categories on gonewest818 doodles in code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 22:05:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 22:50:00 -0800</lastBuildDate>
     
 	<atom:link href="https://gonewest818.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>projects</title>
+      <link>https://gonewest818.github.io/categories/projects/</link>
+      <pubDate>Wed, 04 Mar 2020 22:50:00 -0800</pubDate>
+      
+      <guid>https://gonewest818.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>notes</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 01 Mar 2020 22:05:00 -0800</pubDate>
       
       <guid>https://gonewest818.github.io/categories/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://gonewest818.github.io/categories/projects/</link>
-      <pubDate>Thu, 27 Feb 2020 10:30:00 -0800</pubDate>
-      
-      <guid>https://gonewest818.github.io/categories/projects/</guid>
       <description></description>
     </item>
     
