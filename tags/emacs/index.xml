@@ -6,10 +6,19 @@
     <description>Recent content in emacs on gonewest818 doodles in code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2020 22:50:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:14:00 -0700</lastBuildDate>
     
 	<atom:link href="https://gonewest818.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dimmer gallery</title>
+      <link>https://gonewest818.github.io/2020/03/dimmer-gallery/</link>
+      <pubDate>Fri, 13 Mar 2020 00:14:00 -0700</pubDate>
+      
+      <guid>https://gonewest818.github.io/2020/03/dimmer-gallery/</guid>
+      <description>A gallery of dimmer effects</description>
+    </item>
     
     <item>
       <title>geolocation.el (in beta)</title>
